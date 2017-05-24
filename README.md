@@ -1,4 +1,4 @@
-# beagle bone black wireless enable wifi
+# Getting wireless working on the beagle bone black wireless
 How to enable wifi on the beagle bone black wiress  from the command line
 
 The beagle bone black wireless is a great little maker tool, but the documentation can be frustrating to navigate, especially for getting up and running with the wireless chip. The beagle bone black wireless getting started page doesn't have a lot of info on it, which is sort of frustrating, given that the whole point of having the BBBW is to use wifi!
